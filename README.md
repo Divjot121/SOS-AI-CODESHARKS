@@ -1,4 +1,4 @@
-# SOS-AI-CODESHARKS
+# SOS-AI-HackSharks
 Project Name- **SOS-AI**
 
 
